@@ -2,6 +2,6 @@ class PagesController < ApplicationController
   def home
   end
 
-  def contactrails
+  def contact
   end
 end
