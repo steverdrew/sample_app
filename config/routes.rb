@@ -13,7 +13,7 @@ SampleApp::Application.routes.draw do
   get "pages/contact"
   get "pages/about_us"
   get "pages/help"
-  get "users/show"
+ 
   
   # The priority is based upon order of creation:
   # first created -> highest priority.
