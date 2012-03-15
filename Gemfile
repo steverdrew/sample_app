@@ -13,8 +13,8 @@ group :development, :test do
   gem 'database_cleaner'
   gem 'rspec'
   gem 'spork'
-  gem 'bootstrap-sass', '2.0.0'
 end
+
 group :production do
   gem 'pg'
 end
