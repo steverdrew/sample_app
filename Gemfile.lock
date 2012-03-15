@@ -30,6 +30,7 @@ GEM
       multi_json (~> 1.0)
     annotate (2.4.0)
     arel (3.0.2)
+    bootstrap-sass (2.0.1)
     builder (3.0.0)
     capybara (1.1.2)
       mime-types (>= 1.16)
@@ -159,6 +160,7 @@ PLATFORMS
 
 DEPENDENCIES
   annotate
+  bootstrap-sass
   coffee-rails (~> 3.2.1)
   cucumber-rails
   database_cleaner
