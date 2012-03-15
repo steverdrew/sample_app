@@ -9,6 +9,11 @@ gem 'gravatar_image_tag'
 group :development, :test do
   gem 'sqlite3'
   gem 'annotate'
+  gem 'cucumber-rails'
+  gem 'database_cleaner'
+  gem 'rspec'
+  gem 'spork'
+  gem 'bootstrap-sass', '2.0.0'
 end
 group :production do
   gem 'pg'
